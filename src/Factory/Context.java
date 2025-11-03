@@ -13,6 +13,6 @@ public class Context {
 
         Common c3 = factory.createMethod("M1");
         c3.method();
-        
+
     }
 }
